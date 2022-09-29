@@ -36,6 +36,8 @@ GET/markets/{market_name}/candles?resolution={resolution}&start={start_time}&end
 
 En el proceso de exploración de los datos no encontré valores nulos, ni atributos perdidos, todas las variables estaban en inglés, encontré algunos valores atípicos pero que después de un análisis, determiné que hacían parte natural de un entorno de comercio de criptomonedas, donde se sufren fluctuaciones acordes con el movimiento diario del mercado. Para este proceso conserve todas las variables ya que eran necesarias para la hipótesis, donde cada registro contiene el mismo número de campos.
 En conclusión, puedo afirmar que se obtuvieron unos datos de muy buena calidad y que requirió de muy poca y casi nula transformación, por lo que procedi a disponivilizarlos para el analisis con el uso de la herramienta Power Bi desktop de Microsoft, donde hice uso de 02 objetos visuale que no estan disponivilizados en la herramienta, correspondiendo a obtenerlo y disponivilizarlos en el panel de visualizaciones,  herramientas utilizada para realizar análisis financiero y grafico de velas muy usado en este entorno con el mismo fin.
+
+
 <img src = "icons/panel.PNG" height = 200>
 
 
