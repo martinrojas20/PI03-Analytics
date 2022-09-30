@@ -20,7 +20,7 @@ Donde podrá entender los requerimientos de acceso necesarias acorde con sus nec
 
 Necesitaba obtener los precios históricos de el top 10 de las criptomonedas según ranking de [coinmarketcap.com ](https://coinmarketcap.com/es/) , para lo cual en la documentación me indicaban lo siguiente: 
 GET/markets/{market_name}/candles?resolution={resolution}&start={start_time}&end_time={end_time}
- para lo cual hice uso de la librería [pypi.org]https://pypi.org/project/requests/)de python, donde me disponibilizaron los datos en formato json ; {
+ para lo cual hice uso de la librería [pypi.org]https://pypi.org/project/requests/ python, donde me disponibilizaron los datos en formato json ; {
   "success": true,
   "result": [
     {
