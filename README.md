@@ -12,7 +12,7 @@
 
 ## Carga de los datos
 
-Para la resolución del proyecto PI03-analytics, me conecte la API de FTX que “es un exchange, fundado en 2019 y con sede corporativa en Bahamas, en el que traders minoristas e instituciones pueden comprar y vender criptoactivos, tokens apalancados, NFTs, futuros, acciones, acciones tokenizadas y moneda fiduciaria. Además, la compañía también dispone de su propio token: FTT.”( https://cryptoconexion.com/)
+Para la resolución del proyecto PI03-analytics, me conecte la API de FTX que “es un exchange, fundado en 2019 y con sede corporativa en Bahamas, en el que traders minoristas e instituciones pueden comprar y vender criptoactivos, tokens apalancados, NFTs, futuros, acciones, acciones tokenizadas y moneda fiduciaria. Además, la compañía también dispone de su propio token: FTT.”
 La url, de la documentación de la API es: [docs.ftx.com](https://docs.ftx.com/#overview)
 Donde podrá entender los requerimientos de acceso necesarias acorde con sus necesidades.
 
@@ -39,6 +39,9 @@ En conclusión, puedo afirmar que se obtuvieron unos datos de muy buena calidad 
 
 
 <img src = "icons/panel.PNG" height = 200>
+
+#### *************************************************************************************************************
+## Glosario Cripto https://cryptoconexion.com/glosario/
 
 
 
